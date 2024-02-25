@@ -1,4 +1,4 @@
-# Multitask-modal method for breast cancer
+# Multimodality-task method for breast cancer
 ## Overview
 
 ### Image Data
