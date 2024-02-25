@@ -1,4 +1,4 @@
-# multitask-modal-enhancement
+# multitask-modal-enhancement method
 ## Overview
 
 ### Image Data
@@ -7,4 +7,6 @@ We revised this dataset, and it now has corresponding lesion masks for segmentat
 
 ### Alignment
 
-```sample of caption.txt``` is sample of caption for pretrained alignment task
+```sample of caption.txt``` is sample of caption for pretrained alignment task.
+
+The training of alignment is 
