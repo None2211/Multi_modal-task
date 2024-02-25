@@ -7,6 +7,4 @@ We revised this dataset, and it now has corresponding lesion masks for segmentat
 
 ### Alignment
 
-
-
- is sample of caption for pretrained alignment task
+`````` is sample of caption for pretrained alignment task
