@@ -32,3 +32,7 @@ please convert each path to your actual path
 ### Step 5 Predict for one image
 ```infer.py```
 This file is for predicting each image and the output are segmentation maps, pathological classification, and mammography classification.
+
+## Acknowledgement
+
+Thanks to00 authors Shariatnia and M. Moein for their contributions in our alignment task of breast cancer information
