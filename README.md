@@ -19,3 +19,12 @@ Here, we used the ResNet 50 and Distilbert as image encoder and text encoder res
 
 ```sample of caption.txt``` is sample of caption for coordinates encoding.
 
+### train
+
+```multi_train.py```
+
+please convert each path to your actual path
+
+### predict for one image
+```infer.py```
+This file is for predicting each image and the output are segmentation maps, pathological classification, and mammography classification.
