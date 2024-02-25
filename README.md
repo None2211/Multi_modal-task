@@ -7,3 +7,6 @@ We revised this dataset, and it now has corresponding lesion masks for segmentat
 
 ### Alignment
 
+#### caption
+
+Here is sample of caption for pretrained alignment task
