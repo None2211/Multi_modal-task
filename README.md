@@ -18,6 +18,7 @@ Here, we used the ResNet 50 and Distilbert as image encoder and text encoder res
 ### Coordinates
 
 ```sample of caption.txt``` is sample of caption for coordinates encoding.
+The coordinates of the centroid of the breast are determined by ```sample of caption.txt```
 
 ### Train
 
