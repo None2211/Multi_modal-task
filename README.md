@@ -1,4 +1,4 @@
-# multitask-modal-enhancement method
+# Multitask-modal-enhancement method
 ## Overview
 
 ### Image Data
