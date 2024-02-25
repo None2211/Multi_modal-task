@@ -15,3 +15,7 @@ The training of alignment referred to [Simple CLIP](https://github.com/moein-sha
 
 Here, we used the ResNet 50 and Distilbert as image encoder and text encoder respectively.
 
+### Coordinates
+
+```sample of caption.txt``` is sample of caption for coordinates encoding.
+
