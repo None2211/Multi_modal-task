@@ -35,4 +35,4 @@ This file is for predicting each image and the output are segmentation maps, pat
 
 ## Acknowledgement
 
-Thanks to00 authors Shariatnia and M. Moein for their contributions in our alignment task of breast cancer information
+Thanks to authors Shariatnia and M. Moein for their contributions in our alignment task of breast cancer information.
