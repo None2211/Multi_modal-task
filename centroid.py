@@ -13,9 +13,9 @@ all_data = []
 
 
 for file in os.listdir(preprocessed_img_dir):
-    path = os.path.join(preprocessed_img_dir, file)
-    if os.path.isfile(path):
-        img = cv2.imread(path, 0)
+    img_path = os.path.join(preprocessed_img_dir, file)
+    if os.path.isfile(img_path):
+        img = cv2.imread(img_path, 0)
         centroid_x, centroid_y = compute_mask_centroid(img)
         all_data.append([file, centroid_x, centroid_y])
 
