@@ -9,4 +9,4 @@ We revised this dataset, and it now has corresponding lesion masks for segmentat
 
 ```sample of caption.txt``` is sample of caption for pretrained alignment task.
 
-The training of alignment referred to [Simple CLIP](https://github.com/liruili1/multimodel_task_for_cmmd/blob/main/sample/mask_sample.png](https://github.com/moein-shariatnia/OpenAI-CLIP)https://github.com/moein-shariatnia/OpenAI-CLIP)
+The training of alignment referred to [Simple CLIP](https://github.com/moein-shariatnia/OpenAI-CLIP?tab=readme-ov-file)
