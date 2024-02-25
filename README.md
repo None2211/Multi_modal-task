@@ -7,7 +7,7 @@ We revised this dataset, and it now has corresponding lesion masks for segmentat
 
 ### Alignment
 
-```sample of caption.txt``` is sample of caption for pretrained alignment task.
+```caption.txt``` is sample of diagnostic reports for pretrained alignment task.
 
 The training of alignment referred to [Simple CLIP](https://github.com/moein-shariatnia/OpenAI-CLIP?tab=readme-ov-file)
 
