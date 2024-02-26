@@ -5,7 +5,7 @@
 The original dataset is from [Kaggle The Chinese Mammography Database (CMMD) 2022](https://www.kaggle.com/datasets/tommyngx/cmmd2022), which includes the pathological classification label and mammography classification label. 
 We revised this dataset, and it now has corresponding lesion masks for segmentation.
 ### Step 1 preprocess
-Use ```preprocess.py``` to extract roi of breast
+Use ```preprocess.py``` to extract roi of breast for preprocess
 ### Step 2 Coordinates
 
 ```sample of caption.txt``` is sample of caption for coordinates encoding.
