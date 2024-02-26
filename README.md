@@ -4,7 +4,8 @@
 ### Image Data
 The original dataset is from [Kaggle The Chinese Mammography Database (CMMD) 2022](https://www.kaggle.com/datasets/tommyngx/cmmd2022), which includes the pathological classification label and mammography classification label. 
 We revised this dataset, and it now has corresponding lesion masks for segmentation.
-```train_filenames_small_f.txt``` and ```test_filenames_small_f.txt``` show the images which we used for training and testing, and you can download these original files from the [Kaggle The Chinese Mammography Database (CMMD) 2022](https://www.kaggle.com/datasets/tommyngx/cmmd2022)
+
+```train_filenames_small_f.txt``` and ```test_filenames_small_f.txt``` show the images which we used for training and testing, and you can download these original files from the [Kaggle The Chinese Mammography Database (CMMD) 2022](https://www.kaggle.com/datasets/tommyngx/cmmd2022).
 ### Step 1 preprocess
 Use ```preprocess.py``` to extract roi of breast for preprocess
 ### Step 2 Coordinates
