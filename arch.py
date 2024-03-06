@@ -172,7 +172,7 @@ if __name__ == "__main__":
 
 
 
-    model_seg = DeepLabV3Plus()
+    model_seg = multitask()
 
     mask,subtype,bm = model_seg(image,text,coors)
     print(bm.shape)
